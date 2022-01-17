@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calio-Templar
 - 👀 I’m interested in modding unity-based games(Rimworld, ONI, etc)
 - 🌱 I’m currently learning Csharp
-- 💞️ I’m looking to collaborate on game mode
+- 💞️ I’m looking to collaborate on game mod
 - 📫 How to reach me ... send pull req
 
 <!---
